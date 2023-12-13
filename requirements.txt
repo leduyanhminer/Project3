@@ -1,0 +1,6 @@
+Flask
+Pillow
+requests
+keras
+numpy
+tensorflow
